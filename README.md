@@ -109,5 +109,5 @@ CREATE TABLE Vendas (
 
 **Rodrigo Santiago**  
 Analista de Dados | Python • SQL • Power BI  
-📧 rodrigosantiago@email.com
+📧 rodrigogomes9191@gmail.com
 
